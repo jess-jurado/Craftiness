@@ -28,3 +28,7 @@ body{
     box-shadow: 10px 25px 25px 9px rgba(0,0,0,0.75);
     font-family: Arial;
     
+    .footer{
+        background-color: coral;
+        font-family: fantasy;
+    }
