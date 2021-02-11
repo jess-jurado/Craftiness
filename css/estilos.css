@@ -1,4 +1,4 @@
-body{
+body {
     margin: 0;
     padding: 0;
     color: crimson;
@@ -15,10 +15,10 @@ body{
     Copy text
 }
 
-.image-fondo{
+.image-fondo {
     
 }
-.logo{
+.logo {
     border-radius: 10px 10px 10px 10px;
     -moz-border-radius: 10px 10px 10px 10px;
     -webkit-border-radius: 10px 10px 10px 10px;
@@ -26,5 +26,11 @@ body{
     -webkit-box-shadow: 10px 25px 25px 9px rgba(0,0,0,0.75);
     -moz-box-shadow: 10px 25px 25px 9px rgba(0,0,0,0.75);
     box-shadow: 10px 25px 25px 9px rgba(0,0,0,0.75);
-    font-family: Arial;
+    font-family: Arial
+}
     
+    
+    .footer {
+        background-color: coral;
+        font-family: fantasy;
+    }
